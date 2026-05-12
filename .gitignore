@@ -1,0 +1,15 @@
+# NEVER commit secrets
+.dashboard_token
+*.env
+config.env
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
